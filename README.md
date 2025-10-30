@@ -32,7 +32,7 @@ This smart contract maintains a counter on the blockchain that:
 
 **Network:** Celo Alfajores Testnet
 
-**Block Explorer:** [View on Blockscout](https://celo-alfajores.blockscout.com/address/XXX)
+**Block Explorer:** [View on Blockscout](https://celo-alfajores.blockscout.com/address/0xd9145CCE52D386f254917e481eB44e9943F39138)
 
 ## 💻 Smart Contract Code
 
