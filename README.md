@@ -28,7 +28,7 @@ This smart contract maintains a counter on the blockchain that:
 
 ## 🔗 Deployed Smart Contract
 
-**Contract Address:** XXX
+**Contract Address:** 0xd9145CCE52D386f254917e481eB44e9943F39138
 
 **Network:** Celo Alfajores Testnet
 
